@@ -1,2 +1,2 @@
-# Build a Call to Action Banner
-To get started, create a new Codespace from this repo.
+BUILDING A PET FOSTERING WEBSITER 
+HTML AND CSS STYLING USE IN THIS PROJECT
